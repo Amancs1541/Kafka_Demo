@@ -4,6 +4,10 @@ This project demonstrates a simple **Kafka producer-consumer** workflow using a 
 
 ---
 
+# Install confluent-kafka dependency
+ ```bash
+pip3 install confluent-kafka
+```
 ## Setup and Usage
 
 ### 1. Start Kafka Cluster
